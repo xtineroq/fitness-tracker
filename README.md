@@ -15,7 +15,7 @@
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-* [Screenshot](#screenshot)
+* [Screenshots](#screenshots)
 * [Deployed Application](#deployed-application)
 
 ## Installation
@@ -46,7 +46,7 @@ Please direct all questions to:
 
 📧 mcroque89@gmail.com
 
-## Screenshot
+## Screenshots
 ![main-page](./public/assets/home.png)
 ![dashboard](./public/assets/dashboard.png)
 
