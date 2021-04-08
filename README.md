@@ -44,7 +44,6 @@ Please direct all questions to:
 
 👤 https://github.com/xtineroq
 
-📧 mcroque89@gmail.com
 
 ## Screenshots
 ![main-page](./public/assets/home.png)
